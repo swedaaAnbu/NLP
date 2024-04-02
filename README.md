@@ -1,2 +1,2 @@
 # NLP
-Implemented NLP techniques to extract key topics from Enron Email dataset. 
+Implemented NLP techniques to extract key topics from Enron Email dataset  by applying Latent Dirichlet Allocation (LDA). Preprocessed data with spaCy and NLTK, including lemmatization, noise removal (HTML tags, punctuation, stopwords). Utilized BoW and TF-IDF for text vectorization. Tuned LDA parameters (K, α, β). Evaluated model using perplexity and coherence scores. Interpreted topics via probable words, assigning human-readable labels for easier understanding.
